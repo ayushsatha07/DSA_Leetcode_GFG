@@ -1,8 +1,8 @@
+package BinarySearch;
 
 // Search in Rotated Sorted Array
 //Time Complexity :- O(logn)
 //Space Complexity :- O(1)
-package BinarySearch;
 
 public class Search_In_Sorted_Array {
 
