@@ -1,8 +1,9 @@
+package BinarySearch;
+
 //First And Last Occurance in Sorted Array
 // Time Complexity :- O(logn)
 // Space Complexity :- O(1
 
-package BinarySearch;
 import java.util.ArrayList;
 public class First_And_Last_Occurance {
   public ArrayList<Integer> find(int arr[], int tar) {
