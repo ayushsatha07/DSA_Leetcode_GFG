@@ -1,5 +1,8 @@
 package Recursion;
 
+//Time Complexity :-O(n)
+//Space Complexity:-O(n)
+
 public class Print_N_to_1 {
     static void main(String[] args) {
         print(5);
