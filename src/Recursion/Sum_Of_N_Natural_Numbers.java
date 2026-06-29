@@ -1,5 +1,8 @@
 package Recursion;
 
+//Time Complexity :- O(n)
+//Space Complexity:- O(n)
+
 public class Sum_Of_N_Natural_Numbers {
     static void main(String[] args) {
         int n=100;
