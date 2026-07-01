@@ -1,5 +1,8 @@
 package JavaStrings;
 
+//Time Complexity :-O(n)
+//Space Complexty :-O(1)
+
 public class Palindrome {
     static void main(String[] args) {
         String s ="racecar";
