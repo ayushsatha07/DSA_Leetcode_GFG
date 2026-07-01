@@ -1,6 +1,10 @@
 package Recursion;
 import java.util.List;
 import java.util.ArrayList;
+
+//Time Compleity :- O(2^n)
+//Space Complexity:- O(n)
+
 public class PowerSet {
     static void main(String[] args) {
          List<String> list =new ArrayList<>();
