@@ -1,5 +1,8 @@
 package BinarySearch;
 
+//Time Complexity :-O(logn)
+//Space Complexity:-O(1)
+
 public class Flor_In_Sorrted_Array {
     static void main(String[] args) {
         int arr[]={1,22,54,76,89,90,93};
