@@ -1,5 +1,8 @@
 package Recursion;
 
+//Time Complexity:-O(logn)
+//Space Complexity:-O(1)
+
 public class Ways_reach_Nth_stair {
     static void main(String[] args) {
         int ways=countWays(5);
