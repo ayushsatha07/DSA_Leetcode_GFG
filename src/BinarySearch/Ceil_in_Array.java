@@ -1,5 +1,8 @@
 package BinarySearch;
 
+//Time Complexity :-O(n)
+//Space Complexity:-O(1)
+
 public class Ceil_in_Array {
     static void main(String[] args) {
         int arr[]={11,43,56,75,90,96};
