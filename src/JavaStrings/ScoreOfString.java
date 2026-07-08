@@ -19,3 +19,4 @@ public class ScoreOfString {
         return sum;
     }
 }
+
