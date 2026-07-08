@@ -27,6 +27,11 @@ class LinkedList{
             tail=temp;
         }
     }
+
+    void deleteAtHead(){
+        if(head==null) System.out.println(" Empty LinkedList! You Can Not Delete");
+        else head=head.next;
+    }
 }
 public class LinkedListClass {
     static void main(String[] args) {
