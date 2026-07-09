@@ -1,6 +1,7 @@
 package Linkedlist;
 
-
+// Time Complexity :-O(n)
+// Space Cmplexity :-O(1)
 
 public class Delete_middleOfList {
 
