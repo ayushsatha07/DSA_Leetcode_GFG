@@ -3,6 +3,7 @@ package Arrays;
 // Time Complexity :-O(n)
 // Space Complexity:-O(1)
 
+
 public class Check_ArraySorted {
     static void main(String[] args) {
         int arr[]={44,23,56,78,54,22};
