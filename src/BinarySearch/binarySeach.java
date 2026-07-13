@@ -3,6 +3,7 @@ package BinarySearch;
 // Time Complexity :- O(logn)
 // Space Complexity :-O(1)
 
+
 class Solution {
     public int search(int[] arr, int target) {
         int low=0 ,high=arr.length-1;
