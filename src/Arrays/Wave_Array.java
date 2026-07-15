@@ -1,5 +1,7 @@
 package Arrays;
 
+//Time Complexity:-O(n)
+//Space Complexity:-O(1)
 
 public class Wave_Array {
 
