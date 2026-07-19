@@ -1,5 +1,7 @@
 package Arrays;
 
+//Time Complexity:-O(n)
+//Space Complexity:-O(1)
 
 public class Largest_IN_Array {
     public static int largest(int[] arr) {
