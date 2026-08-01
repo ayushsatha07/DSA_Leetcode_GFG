@@ -1,5 +1,9 @@
 package Arrays;
 
+//Time Complexity:-O(n*m)
+//Space Complexity:-O(1) {Exclude Output}
+//Space Complexity:-O(n*m) {Include Output}
+
 import java.util.ArrayList;
 
 public class SpirallyTraverse_Matrix {
