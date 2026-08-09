@@ -22,6 +22,7 @@ public class CommonElements {
                 else i++;
             }
             return ans;
+            
         }
     }
 
